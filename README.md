@@ -1,2 +1,0 @@
-# AutoEncoder_test
-test
